@@ -52,5 +52,5 @@ func letterCombinations(digits string) []string {
 
 
 func main() {
-	fmt.Println(letterCombinations("223"))
+	fmt.Println(letterCombinations("234"))
 }

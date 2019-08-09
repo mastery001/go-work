@@ -40,5 +40,5 @@ func countAndSay(n int) string {
 }
 
 func main() {
-	fmt.Println(countAndSay(0))
+	fmt.Println(countAndSay(5))
 }
